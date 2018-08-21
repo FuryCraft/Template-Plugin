@@ -1,5 +1,5 @@
 <?php
-class ForumAppSchema extends CakeSchema
+class EmptyAppSchema extends CakeSchema
 {
 	public $file = 'schema.php';
 
