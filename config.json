@@ -1,10 +1,15 @@
 {
-  "name":"Empty",
+  "name":"SEO Optimizer",
   "admin_menus": {
-
-  },
-  "author":"PHPierre",
-  "version":"1.0.0-dev",
+    	"GLOBAL__ADMIN_PLUGINS": {
+			"SEO Optimizer": {
+				"icon": "credit-card",
+				"route": "/admin/seo-optimizer"
+			}
+		}
+	},
+  "author":"Fury_Craft",
+  "version":"1.0.0",
   "apiID":-1,
   "useEvents":false,
   "permissions" : {
